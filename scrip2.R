@@ -1,5 +1,7 @@
-##SIMULACION METODOS DE MUESTREO CON LA BASE IRIS
-## MAS, ESTRATIFICADO, SISTEMATICO
+####################################################
+##SIMULACION METODOS DE MUESTREO CON LA BASE IRIS  #
+##        MAS, ESTRATIFICADO, SISTEMATICO          #
+####################################################
 
 #Cargar la base de datos iris en la variable iris.df
 iris.df = data.frame(iris)
