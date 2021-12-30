@@ -1,3 +1,9 @@
+##SIMULACION PROCESO DE MUESTREO DE UNA POBLACION BERNOULLI(p)
+
+##Se toma una muestra de tamano "n" de una poblacion Bernoulli con parametro "p";
+##se usa como estimador la proporcion muestral "P_gorro";
+##se simula este experimento "rep" veces; se observa como se comporta la distribucion 
+##del estimador mediante un histograma. Se calcula su media y varianza.
 
 #Tamano de la muestra
 n=1000
