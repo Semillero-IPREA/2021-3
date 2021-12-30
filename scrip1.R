@@ -1,4 +1,6 @@
-##SIMULACION PROCESO DE MUESTREO DE UNA POBLACION BERNOULLI(p)
+################################################################
+##SIMULACION PROCESO DE MUESTREO DE UNA POBLACION BERNOULLI(p) #
+################################################################
 
 ##Se toma una muestra de tamano "n" de una poblacion Bernoulli con parametro "p";
 ##se usa como estimador la proporcion muestral "P_gorro";
