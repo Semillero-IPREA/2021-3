@@ -1,6 +1,15 @@
-##DISTRIBUCION MUESTRAL DE LA MEDIA
+######################################
+##DISTRIBUCION MUESTRAL DE LA MEDIA  #
+######################################
 
-#EJEMPLO 8.6
+#EJEMPLO 8.6 Walpole, et.al (2007)
+
+#Una empresa de material eléctrico fabrica bombillas de luz que tienen 
+#una duración que se distribuye aproximadamente en forma normal, 
+#con media de 800 horas y desviación estándar de 40 horas. 
+#Encuentre la probabilidad de que una muestra aleatoria de 16 bombillas 
+#tenga una vida promedio de menos de 775 horas.
+
 #repeticiones del experimento
 rep = 10000
 #tamano de la muestra
