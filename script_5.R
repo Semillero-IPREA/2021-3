@@ -50,7 +50,7 @@ var(muestras$Chi_Sq)
 
 #Histograma con frecuencias relativas
 hist(muestras$Chi_Sq, breaks=50, freq = FALSE)
-#Curva normal teorica superpuesta
+#Curva Chi-cuadrado teorica superpuesta
 curve(dchisq(x, df=4), col="red", lwd=2, add=TRUE, yaxt="n")
 
 ## -- Solución del ejercicio
